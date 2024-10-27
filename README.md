@@ -1,4 +1,5 @@
 # Mysql2 - A modern, simple and very fast MySQL library for Ruby - binding to libmysql
+v2.1
 
 GitHub Actions
 [![GitHub Actions Status: Build](https://github.com/brianmario/mysql2/actions/workflows/build.yml/badge.svg)](https://github.com/brianmario/mysql2/actions/workflows/build.yml)
